@@ -1,1 +1,1 @@
-print(Helloka!)
+print(Helloka! Ez egy python program.)
