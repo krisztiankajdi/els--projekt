@@ -1,2 +1,2 @@
-print
-print("sziasztok")
+
+print("sziasztok! Ez egy python program.")
